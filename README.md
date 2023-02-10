@@ -18,7 +18,7 @@ be done to us, we will not do to others.
 2. We shall honor the Commandments, 
 as a sign of our love for God. 
 We will avoid  everything that is evil,
-and from everything that is like to it. 
+and everything that is like to it. 
 
 3. Anyone who contributes to this project
 but who does not honor this code will 
